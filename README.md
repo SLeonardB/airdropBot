@@ -4,10 +4,12 @@
 
   ## Running the bot, tested on _Linux, Termux_
   ### With python and pip installed 
-  1. python -m venv botEnv
-  2. source botEnv/bin/activate
-  3. pip install python-telegram-bot
-  4. python fmbot_v1.py
+  ```
+  $ python -m venv botEnv
+  $ source botEnv/bin/activate
+  $ pip install python-telegram-bot
+  $ python fmbot_v1.py
+  ```
 
   ## Any Other Business:
   - The code can be _altered_ to meet particular use cases.
@@ -18,5 +20,5 @@
   - This code is for _demonstration_ purposes only.
   
   ### Author
-  _Leonard Billy Ssekanjako_
-  _Date: Sunday, 23rd November, 2025._
+  * _Leonard Billy Ssekanjako_
+  * _Date: Sunday, 23rd November, 2025._
