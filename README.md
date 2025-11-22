@@ -16,7 +16,7 @@
   - Sample crypto-currency coin: _FlowMint(FM) Coin_.
   - Coin Telegram channel link: [_Official FlowMint Coin Announcements Channel._](https://t.me/flowmintcoin)
   - Telegram bot username: _@FlowMintDropBot_
-  - Email improvements to [_developer_.](sleonardbilly23@gmail.com)
+  - Email improvements to [_developer_.](https://sleonardb.github.io/home/)
   - This code is for _demonstration_ purposes only.
   
   ### Author
