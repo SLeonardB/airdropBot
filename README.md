@@ -22,7 +22,7 @@
 
   ## Any Other Business:
   - The code can be _altered_ to meet similar use cases with various giveaway flows.
-  - The sample crypto-currency coin used: _FlowMint(FM)_Coin.
+  - The sample crypto-currency coin used: _FlowMint(FM) Coin_.
   - The sample coin Telegram channel link for proof of concept: [_Official FlowMint Coin Announcements Channel._](https://t.me/flowmintcoin)
   - The sample Telegram bot username to check out for deployed bot: _@FlowMintDropBot_
   - Email improvements to [_developer_.](https://sleonardb.github.io/home/)
