@@ -1,6 +1,7 @@
 from telegram.ext import Application, CommandHandler
 
-BOT_TOKEN = "8551863465:AAEu-wzqBihg3wBZnE80CVhcF7-jOJEeP64"
+import os
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 async def start(update, context):
     await update.message.reply_text("Welcome to the FlowMint Airdrop giveaway Bot.")

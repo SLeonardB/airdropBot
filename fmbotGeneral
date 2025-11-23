@@ -1,0 +1,27 @@
+Folder structure:
+
+project/
+│
+├── bot/
+│   ├── main.py            # Telegram bot entry point
+│   ├── handlers/          # Command handlers split into files
+│   │   └── airdrop.py
+│   │   └── start.py
+│   │   └── balance.py
+│   └── utils/             # Helper functions for parsing, formatting, validation
+│       └── telegram_helpers.py
+│
+├── backend/
+│   ├── app.py             # FastAPI/Flask backend entry point
+│   ├── wallet.py          # Wallet generation, signing, RPC calls
+│   ├── database.py        # User storage, rate limits, logs
+│   └── config.py          # RPC URL, private key, token contract, settings
+│
+├── database/
+│   └── airdrop.db         # SQLite file (or migrations folder if using SQLAlchemy)
+│
+├── contracts/             # Optional: ABI files or contract addresses
+│   └── token_abi.json
+│
+└── README.md              # Setup instructions
+
