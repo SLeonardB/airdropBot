@@ -27,7 +27,7 @@
   - The sample Telegram bot username to check out for deployed bot: _@FlowMintDropBot_
   - Email improvements to [_developer_.](https://sleonardb.github.io/home/)
   - Ideas to expand the bot are welcome especially concerning smart contract and Blockchain functionality.
-  - This code is for _demonstration_ purposes only. A real crypto-currency network is to be used in more sophisticated versions of the Bot.
+  - This code is for _demonstration_ purposes only. A real crypto-currency network is to be used in more sophisticated versions of the Bot and on demand.
   
   ### Author
   * _Leonard Billy Ssekanjako_
